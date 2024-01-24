@@ -1,0 +1,5 @@
+Por los graficos notamos a simple vista que: 
+
+- Una vez que la glucosa supera los 100 ml hay cierto riesgo en contraer la enfermedad
+- Si obversamos edad, pasados los 50 años el riesgo aumenta considerablemente
+- El  BMI optimo es hasta los de valor 35, luego la curva se dispara 
